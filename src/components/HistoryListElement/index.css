@@ -1,0 +1,31 @@
+.list-item-container {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 20px;
+  border-radius: 15px;
+}
+.content-container {
+  display: flex;
+  align-items: center;
+  width: 90%;
+}
+.time {
+}
+.logo {
+  margin-left: 50px;
+  width: 30px;
+}
+.title {
+  margin-left: 20px;
+}
+.domain {
+  margin-left: 12px;
+  color: #64748b;
+  text-decoration: none;
+}
+.btn {
+  background-color: #ffffff;
+  border: none;
+}
